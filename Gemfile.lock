@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    settingslogic (2.0.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  settingslogic
+
+BUNDLED WITH
+   1.17.2
